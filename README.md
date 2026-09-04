@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="gldnns" src="https://github.com/user-attachments/assets/e41cdaf1-14c5-466b-b37c-7d461305ab5a" />
+<img width="1366" height="768" alt="gldns" src="https://github.com/user-attachments/assets/b98dd10b-c104-495f-a06f-313d32b15d6f" />
 # GoldenGenesis
 
 Born from the timeless geometry of the Fibonacci spiral, **GoldenGenesis** translates mathematical harmony into a living desktop environment. The name itself reflects a genesis built on the golden ratio—where every curve, panel proportion, and transition flows with natural, organic precision.
